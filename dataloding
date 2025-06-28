@@ -1,4 +1,3 @@
-
 import pandas as pd
 
 df = pd.read_csv('/kaggle/input/metro-interstate-traffic-volume/Metro_Interstate_Traffic_Volume.csv')
